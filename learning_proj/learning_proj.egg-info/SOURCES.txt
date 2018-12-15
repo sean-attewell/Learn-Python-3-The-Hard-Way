@@ -1,0 +1,7 @@
+setup.py
+learning/world.py
+learning_proj.egg-info/PKG-INFO
+learning_proj.egg-info/SOURCES.txt
+learning_proj.egg-info/dependency_links.txt
+learning_proj.egg-info/requires.txt
+learning_proj.egg-info/top_level.txt
